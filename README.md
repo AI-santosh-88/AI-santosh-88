@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Behera</h1>
 <h3 align="center">Whitefield, Bengalurur</h3>
 <h3 align="center">
-  Hi! I'm a Data Science Enthusiast with experience in Python, MySQL, and other programming dialects. I appreciate making arrangements and handling complex difficulties. I'm dependably anxious to learn, team up, and work on my abilities. We should associate and perceive how we can cooperate!
+  Hi! I'm a "Gen AI Enthusiast fascinated by the intersection of creativity and code.  With a background in data science and skills in Python & MySQL, I'm exploring the incredible applications of Generative AI – from crafting compelling content to building innovative solutions.  Always open to collaboration, learning new techniques, and connecting with others who are shaping the future with AI."
 </h3>
 
 <img align="right" alt="Coding" height="200" width="300" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
