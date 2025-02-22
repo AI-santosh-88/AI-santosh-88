@@ -48,7 +48,7 @@
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://https://hadoop.apache.org//" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/Apache Hadoop-original.svg" alt="Apache Hadoop" width="40" height="40"/>
+  <a href="https://https://https://openai.com///" target="_blank" rel="noreferrer">
+    <img src="https://cdn.sologo.ai/2025/0102/20250102113948245.png" alt="openai" width="40" height="40"/>
   </a>
 </p>
