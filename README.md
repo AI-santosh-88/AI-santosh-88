@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Prompt engineering / Generative AI  / LLM Model / Azure**
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ROHIT-RAY-GIT?tab=repositories)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/AI-santosh-88?tab=repositories)
 
 - 📫 How to reach me **santosh.behera777@gmail.com**
 
