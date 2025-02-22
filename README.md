@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Santosh Kumar Behera</h1>
 <h3 align="center">Whitefield, Bengaluru</h3>
 <h3 align="center">
-  Hi! I'm a "Gen AI Enthusiast fascinated by the intersection of creativity and code.  With a background in data science and skills in Python & MySQL, I'm exploring the incredible applications of Generative AI – from crafting compelling content to building innovative solutions.  Always open to collaboration, learning new techniques, and connecting with others who are shaping the future with AI."
+  Hi! I'm a "Gen AI Enthusiast fascinated by the intersection of creativity and code.  With a background in data science and skills in Python & MySQL, I'm exploring the incredible applications of Generative AI – from crafting compelling content to building innovative solution and a passion for problem-solving to explore the transformative potential of LLMs, creative algorithms, and AI-driven content.  Always open to collaboration, learning new techniques, and connecting with others who are shaping the future with AI."
 </h3>
 
 <img align="right" alt="Coding" height="200" width="300" src="http://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
