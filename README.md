@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Gen AI  Project**
 
-- 🌱 I’m currently learning **Prompt engineering / Generative AI  / LLM Model / Azure**
+- 🌱 I’m currently learning **Prompt engineering / Agentic AI / Generative AI  / LLM Model / Azure **
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AI-santosh-88?tab=repositories)
 
