@@ -15,7 +15,8 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/AI-santosh-88?tab=repositories)
 
-- 📫 How to reach me **santosh.behera777@gmail.com**
+- 📫 How to reach me **santosh.behera777@gmail.com** , **https://www.linkedin.com/in/santosh-kumar-behera-930ba8327/**
+                      
 
 <br>
 
