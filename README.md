@@ -53,6 +53,6 @@
     <img src="https://cdn.sologo.ai/2025/0102/20250102113948245.png" alt="openai" width="40" height="40"/>
   </a>
    href="https://https://azure.microsoft.com///" target="_blank" rel="noreferrer">
-    <img src="https://https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" alt="openai" width="40" height="40"/>
+    <img src="https://https://www.logo.wine/a/logo/Microsoft_Azure/Microsoft_Azure-Logo.wine.svg" alt="microsoft azure" width="40" height="40"/>
   </a>
 </p>
