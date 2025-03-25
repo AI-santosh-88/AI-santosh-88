@@ -52,7 +52,7 @@
   <a href="https://https://https://openai.com///" target="_blank" rel="noreferrer">
     <img src="https://cdn.sologo.ai/2025/0102/20250102113948245.png" alt="openai" width="40" height="40"/>
   </a>
-   href="https://mistral.ai/" target="_blank" rel="noreferrer">
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.42.0/files/dark/mistral-color.png" alt="mistral ai" width="40" height="40"/>
+   href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.42.0/files/dark/gemini-color.png" alt="gemini" width="40" height="40"/>
   </a>
 </p>
