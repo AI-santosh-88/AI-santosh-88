@@ -53,6 +53,6 @@
     <img src="https://cdn.sologo.ai/2025/0102/20250102113948245.png" alt="openai" width="40" height="40"/>
   </a>
    href="https://mistral.ai/" target="_blank" rel="noreferrer">
-    <img src="https://images.seeklogo.com/logo-png/51/1/mistral-ai-icon-logo-png_seeklogo-515008.png" alt="mistral ai" width="40" height="40"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.42.0/files/dark/mistral-color.png" alt="mistral ai" width="40" height="40"/>
   </a>
 </p>
