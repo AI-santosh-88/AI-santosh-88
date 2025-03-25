@@ -52,7 +52,7 @@
   <a href="https://https://https://openai.com///" target="_blank" rel="noreferrer">
     <img src="https://cdn.sologo.ai/2025/0102/20250102113948245.png" alt="openai" width="40" height="40"/>
   </a>
-   href="https://https://https://huggingface.co/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/hugging-face4024.logowik.com.webp" alt="huggingface" width="40" height="40"/>
+   href="https://mistral.ai/" target="_blank" rel="noreferrer">
+    <img src="https://images.seeklogo.com/logo-png/51/1/mistral-ai-icon-logo-png_seeklogo-515008.png" alt="mistral ai" width="40" height="40"/>
   </a>
 </p>
