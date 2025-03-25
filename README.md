@@ -52,7 +52,7 @@
   <a href="https://https://https://openai.com///" target="_blank" rel="noreferrer">
     <img src="https://cdn.sologo.ai/2025/0102/20250102113948245.png" alt="openai" width="40" height="40"/>
   </a>
-   href="https://https://azure.microsoft.com///" target="_blank" rel="noreferrer">
-    <img src="https://https://https://swimburger.net/media/fbqnp2ie/azure.svg" alt="azure" width="40" height="40"/>
+   href="https://https://https://huggingface.co////" target="_blank" rel="noreferrer">
+    <img src="https://https://brandfetch.com/huggingface.co?view=library&library=default&collection=logos&asset=idJ6-I79C_" alt="huggingface" width="40" height="40"/>
   </a>
 </p>
